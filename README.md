@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy <span style="color:#00ADB5;">Osiel Escobar</span> 👨‍💻</h1>
 
-<!--
-**Osiel2004/Osiel2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://images.app.goo.gl/8jxVP6N7tdbw2hWK8" alt="Banner" height="300" />
+</div>
 
-Here are some ideas to get you started:
+<h4 align="center">
+  <b><a href="https://github.com/Osiel2004/Proyectos-Interesantes">Repositorio destacado</a></b>
+  •
+  <a href="https://twitter.com/osiel_Ex">@osiel_Ex</a>
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+
+Soy estudiante con gran interés en la inteligencia artificial, visión por computadora, electrónica aplicada y desarrollo web. Trabajo actualmente en proyectos como:
+
+- 🔍 **Sistema de vigilancia inteligente** usando IA para detección de rostros y patrones sospechosos.
+- 💧 **Sistema de captación y purificación de agua de lluvia**, orientado al uso sustentable en zonas de escasez.
+
+Me gusta construir soluciones tecnológicas con impacto social, combinando software, hardware y creatividad.
+
+---
+
+## 🚀 Tecnologías
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osiel2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osiel2004&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 📁 Repositorio destacado
+
+### 🎯 [Proyectos Interesantes](https://github.com/Osiel2004/Proyectos-Interesantes)
+
+Este repositorio contiene una recopilación de proyectos académicos y personales que reflejan mi crecimiento en tecnología, incluyendo IA, electrónica y sistemas de automatización.
+
+<div align="center">
+  <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=727326946&image_size=auto" alt="Repo Activity Trends" />
+</div>
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+
+<a href="https://twitter.com/osiel_Ex" target="_blank">
+  <img src="https://img.shields.io/badge/-@osiel_Ex-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+<a href="mailto:osiel.tucorreo@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+## 🎓 Agradecimientos
+
+Gracias al **Programa Delfín**, a mis profesores y a las comunidades de desarrollo que me inspiran a seguir creando.
+
+---
+
+> “La tecnología no cambia al mundo sola, lo hacen las personas que la usan para bien.” 🌍
