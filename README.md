@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy <span style="color:#00ADB5;">Osiel Escobar</span> 👨‍💻</h1>
 
 <div align="center">
-  <img src="https://images.app.goo.gl/8jxVP6N7tdbw2hWK8" alt="Banner" height="300" />
+  <img src="[https://images.app.goo.gl/8jxVP6N7tdbw2hWK8](https://i.pinimg.com/736x/68/80/07/688007906b540c10e6a168eea8d223ee.jpg)" alt="Banner" height="300" />
 </div>
 
 <h4 align="center">
