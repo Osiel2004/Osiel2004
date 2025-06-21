@@ -67,7 +67,7 @@ Este repositorio contiene una recopilación de proyectos académicos y personale
   <img src="https://img.shields.io/badge/-@osiel_Ex-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
-<a href="mailto:osiel.tucorreo@example.com" target="_blank">
+<a href="mailto:osiel.fco.osielescobar04@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
