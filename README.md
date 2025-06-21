@@ -53,9 +53,6 @@ Me gusta construir soluciones tecnológicas con impacto social, combinando softw
 
 Este repositorio contiene una recopilación de proyectos académicos y personales que reflejan mi crecimiento en tecnología, incluyendo IA, electrónica y sistemas de automatización.
 
-<div align="center">
-  <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=115641376&image_size=auto" alt="Repo Activity Trends" />
-</div>
 
 
 ---
