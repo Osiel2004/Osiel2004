@@ -92,7 +92,7 @@ Desde sistemas de redes hasta desafíos de automatización. Aquí está mi "muse
 
 ## 🤝 Conectemos
 
-Siempre estoy abierto a charlar sobre nuevas tecnologías, el Programa Delfín o incluso sobre correr (¡me gusta el deporte! 🏃‍♂️).
+Siempre estoy abierto a charlar sobre nuevas tecnologías.
 
 <p align="center">
   <a href="https://twitter.com/osiel_Ex" target="_blank">
