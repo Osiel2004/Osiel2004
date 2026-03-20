@@ -1,85 +1,108 @@
-<h1 align="center">¡Hola! Soy <span style="color:#00ADB5;">Osiel Escobar</span> 👨‍💻</h1>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="Osiel Escobar" width="200" style="border-radius: 50%; border: 4px solid #00ADB5;"/>
+      </td>
+      <td align="left" valign="middle" style="padding-left: 20px;">
+        <h1>¡Hola! Soy <span style="color:#00ADB5;">Osiel Escobar</span> 👨‍💻🏃‍♂️</h1>
+        <h3>Ingeniero en Sistemas Computacionales en formación</h3>
+        <p>
+          <a href="https://twitter.com/osiel_Ex" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+          </a>
+          <a href="mailto:osiel.fco.osielescobar04@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Osiel2004&label=Perfil%20Visto&color=00ADB5&style=flat" alt="Vistas" />
-</p>
-
-<h4 align="center">
-  🚀 Estudiante de Ingeniería en Sistemas Computacionales | Apasionado por la IA, Cloud y Game Dev
-</h4>
-
-<p align="center">
-  <a href="https://twitter.com/osiel_Ex">@osiel_Ex</a> • 
-  <a href="mailto:osiel.fco.osielescobar04@gmail.com">Contacto Directo</a>
+  <img src="https://komarev.com/ghpvc/?username=Osiel2004&label=Vistas%20del%20Perfil&color=00ADB5&style=flat-square" alt="Vistas" />
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Un poco sobre mí
 
-Actualmente curso la carrera de **Ingeniería en Sistemas Computacionales**. Me enfoco en crear soluciones tecnológicas integrales que combinan software robusto, análisis de datos y hardware.
+¡Bienvenido a mi rincón en GitHub! Soy un estudiante apasionado por desarmar problemas complejos y volverlos a armar usando tecnología. Mi camino en la **Ingeniería en Sistemas Computacionales** me ha llevado a explorar desde los circuitos hasta la nube.
 
-- 🛠️ **Proyectos Actuales:**
-  - 🎮 **Jumping Guy**: Desarrollando un videojuego plataformas en **Unity/C#**.
-  - ☁️ **Cloud & DevOps**: Implementando despliegues de **React** en AWS usando **Terraform** y **Amplify**.
-  - 📊 **Data Science**: Análisis exploratorio de datos y modelos predictivos (Seguros y RRHH) usando Python en Google Colab.
-- 🔍 **Intereses Primordiales:** Inteligencia Artificial, Visión por Computadora y Sistemas Programables.
+Lo que más me motiva es el **impacto social** y la creatividad. No solo quiero que el código funcione; quiero que sirva para algo bueno.
 
----
-
-## 🚀 Tecnologías y Herramientas
-
-### 💻 Software & Lenguajes
-<p align="left">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-### ⚙️ Hardware & Otros
-<p align="left">
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
+- 🔬 **Investigando:** Inteligencia Artificial aplicado a la visión por computadora (¡el proyecto de vigilancia sigue en pie y mejorando!).
+- ☁️ **Aprendiendo:** Automatizando infraestructura con **Cloud computing** (AWS/Terraform) y analizando datos para tomar mejores decisiones.
+- 🎮 **Creando:** Desarrollando **Jumping Guy** en Unity, un reto personal de paciencia y diseño.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Mi Caja de Herramientas
+
+Esta es la tecnología que uso para dar vida a mis ideas.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osiel2004&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osiel2004&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <h3>Lenguajes & Frontend</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <br>
+  <h3>Backend & Cloud</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <br>
+  <h3>Hardware & Herramientas</h3>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
 </div>
 
 ---
 
-## 📁 Proyectos Destacados
+## 📁 Lo que estoy construyendo
 
-### 🌟 [GoldenCell](https://github.com/Osiel2004/GoldenCell)
-Desarrollo de sitio web personal y plataforma de marca personal.
+### 🌟 [GoldenCell (Mi Marca Personal)](https://github.com/Osiel2004/GoldenCell)
+Mi proyecto principal de desarrollo web. Es más que un portafolio; es mi espacio para mostrar quién soy al mundo profesional.
 
-### 🎯 [Proyectos Interesantes](https://github.com/Osiel2004/Proyectos-Interesantes)
-Recopilación de retos académicos, desde sistemas de captación de agua hasta redes y automatización.
+### 🧩 [Proyectos Interesantes & Académicos](https://github.com/Osiel2004/Proyectos-Interesantes)
+Desde sistemas de redes hasta desafíos de automatización. Aquí está mi "museo" de aprendizaje constante.
 
 ---
 
-## 📬 Conectemos
+## 📊 Estadísticas
 
-<div align="left">
-<a href="https://twitter.com/osiel_Ex" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:osiel.fco.osielescobar04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Osiel2004&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true" alt="GitHub Stats" height="150px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osiel2004&layout=compact&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" height="150px" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+## 🤝 Conectemos
+
+Siempre estoy abierto a charlar sobre nuevas tecnologías, el Programa Delfín o incluso sobre correr (¡me gusta el deporte! 🏃‍♂️).
+
+<p align="center">
+  <a href="https://twitter.com/osiel_Ex" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&logoWidth=30" alt="Twitter" height="40px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:osiel.fco.osielescobar04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=30" alt="Gmail" height="40px" />
+  </a>
+</p>
 
 ---
 
