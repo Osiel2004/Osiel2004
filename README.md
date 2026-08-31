@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/0a/c9/8d/0ac98d1a209565f6d9dd5e74700b073c" alt="Osiel Escobar" width="200" style="border-radius: 50%; border: 4px solid #00ADB5;" />
+  <img src="https://avatars.githubusercontent.com/u/115641376?v=4" alt="Osiel Escobar" width="200" style="border-radius: 50%; border: 4px solid #00ADB5;" />
   <h1>¡Hola! Soy <span style="color:#00ADB5;">Osiel Escobar</span> 👨‍💻🏃‍♂️</h1>
   <h3>Ingeniero en Sistemas Computacionales en formación</h3>
   <p>
